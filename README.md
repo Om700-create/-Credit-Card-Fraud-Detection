@@ -6,9 +6,13 @@
 ![Docker](https://img.shields.io/badge/Docker-20.10.8-blue)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-blueviolet)
 
+
+
 Welcome to the **Credit Card Fraud Detection System**! This project is an end-to-end machine learning solution designed to detect fraudulent credit card transactions with high accuracy. It showcases advanced data analysis, machine learning, and deployment skills, making it a perfect addition to your portfolio.
 
 ---
+
+https://github.com/Om700-create/-Credit-Card-Fraud-Detection/blob/f473ee1df95fc0f32d4b2a251a2d3ae386e17213/Screenshot%202025-02-24%20112835.png
 
 ## 🚀 **Features**
 
